@@ -1,0 +1,3 @@
+rabbit-producer/node_modules/*
+rabbit-consumer/node_modules/*
+data/*
